@@ -1,0 +1,8 @@
+#exclude all java binary class files
+**/*.class
+
+#exclude all jar files
+**/*.jar
+
+#exclude cache files
+**/gwt-unitCache

@@ -1,0 +1,32 @@
+<Events>
+    <Event>
+        <Name>Test event 1</Name>
+        <Sport>Badminton</Sport>
+        <Location>Gymnase C</Location>
+        <Year>2016</Year>
+        <Month>3</Month>
+        <Day>11</Day>
+        <ID>1</ID>
+    </Event>
+    
+    <Event>
+        <Name>Test event 2</Name>
+        <Sport>Tennis</Sport>
+        <Location>Gymnase C</Location>
+        <Year>2016</Year>
+        <Month>3</Month>
+        <Day>11</Day>
+        <ID>2</ID>
+    </Event>
+    
+    <Event>
+        <Name>Test event 3</Name>
+        <Sport>Ping</Sport>
+        <Location>Gymnase C</Location>
+        <Year>2016</Year>
+        <Month>3</Month>
+        <Day>11</Day>
+        <ID>3</ID>
+    </Event>
+    
+</Events>
